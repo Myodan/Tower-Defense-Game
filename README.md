@@ -65,5 +65,4 @@
 **<span style="color: #ffba4c">②</span> 판매:** 터렛을 판매할 수 있습니다. <br/>
 
 ## 동영상
-
-<iframe width="730" height="410" src="https://www.youtube.com/embed/xKKyThIONTM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![동영상](http://img.youtube.com/vi/xKKyThIONTM/maxresdefault.jpg)](https://youtu.be/xKKyThIONTM) 
